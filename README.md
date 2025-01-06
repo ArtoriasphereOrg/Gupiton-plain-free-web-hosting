@@ -62,7 +62,7 @@ Once the URL is generated, you can visit the link to access your hosted files.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the Creative Commons Zero v1.0 Universal License. See the [LICENSE](LICENSE) file for more information.
 
 ---
 
