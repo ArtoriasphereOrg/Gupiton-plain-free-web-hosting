@@ -1,5 +1,13 @@
 # Gupiton-Plain Hosting
 
+Website that host with us
+https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=d11-1
+https://myexploitgift.web.app/
+and more..
+
+Default Html file
+https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=885-0
+
 Gupiton-Plain is a simple hosting service where you can sign up, log in with a server number, upload HTML and `.gup` files (which may include security configurations like password, IP ban, and callback files), and generate a URL for accessing your hosted content.
 
 ## Features
