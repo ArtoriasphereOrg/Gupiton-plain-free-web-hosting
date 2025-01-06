@@ -20,13 +20,11 @@ Gupiton-Plain is a simple hosting service where you can sign up, log in with a s
 
 ### 1. Sign Up
 To start, you need to create an account:
-- Visit the [Gupiton-Plain Signup Page](#).
 - Fill in the necessary information such as your email and username.
 - After signing up, you'll receive a **server number**. This number is essential for logging in and managing your hosting.
 
 ### 2. Log In
 Once you have your server number, you can log in:
-- Go to the [Login Page](#).
 - Enter the server number you received during signup.
 
 ### 3. Upload Files
