@@ -15,7 +15,7 @@ Gupiton-Plain is a simple hosting service where you can sign up, log in with a s
 
 - **Signup**: Create an account to get a unique server number.
 - **Login**: Log in with your server number to access your server.
-- **Upload**: Upload `.html` and `.gup` files (password;(string),report;(url),redirect;(url)).
+- **Upload**: Upload `.html` and `.gup` files (password;(string),report;(url),redirect;(url) or password;-,report;-,redirect;-)
 - **Generate URL**: Create a unique URL to access your hosted files.
 
 ## Requirements
@@ -87,7 +87,7 @@ Gupiton-Plain เป็นบริการโฮสติ้งที่ง่
 
 - **สมัครสมาชิก**: สร้างบัญชีเพื่อรับหมายเลขเซิร์ฟเวอร์ที่ไม่ซ้ำกัน
 - **ล็อกอิน**: ล็อกอินด้วยหมายเลขเซิร์ฟเวอร์เพื่อเข้าถึงเซิร์ฟเวอร์ของคุณ
-- **อัปโหลด**: อัปโหลดไฟล์ `.html` และ `.gup` (password;(string),report;(url),redirect;(url)).
+- **อัปโหลด**: อัปโหลดไฟล์ `.html` และ `.gup` (password;(string),report;(url),redirect;(url) หรือ password;-,report;-,redirect;-)
 - **สร้าง URL**: สร้าง URL ที่ไม่ซ้ำกันเพื่อเข้าถึงไฟล์ที่โฮสต์
 
 ## ความต้องการ
