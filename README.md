@@ -9,13 +9,13 @@ and more..
 Default Html file
 https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=885-0
 
-Gupiton-Plain is a simple hosting service where you can sign up, log in with a server number, upload HTML and `.gup` files (which may include security configurations like password, IP ban, and callback files), and generate a URL for accessing your hosted content.
+Gupiton-Plain is a simple hosting service where you can sign up, log in with a server number, upload HTML and `.gup` files (which may include security configurations like password, and callback files), and generate a URL for accessing your hosted content.
 
 ## Features
 
 - **Signup**: Create an account to get a unique server number.
 - **Login**: Log in with your server number to access your server.
-- **Upload**: Upload `.html` and `.gup` files (password protection, IP ban, and callback files).
+- **Upload**: Upload `.html` and `.gup` files (password;(string),report;(url),redirect;(url)).
 - **Generate URL**: Create a unique URL to access your hosted files.
 
 ## Requirements
@@ -40,7 +40,7 @@ Once you have your server number, you can log in:
 Once logged in, you can upload your files to the server:
 - You can upload:
   - **HTML files**: To display your website.
-  - **.gup files**: These may include security configurations like passwords, IP bans, and callback files.
+  - **.gup files**: These may include security configurations like passwords, and callback files.
 - The **password** in the `.gup` file is used to prevent unknown users from accessing your website. This password is not meant for encrypting the entire website but rather to add a layer of security by restricting access to unauthorized users.
 - Use the upload interface to select and upload your desired files.
 
@@ -56,7 +56,6 @@ Once the URL is generated, you can visit the link to access your hosted files.
 
 ## Security Features
 - **Password**: The password in the `.gup` file helps prevent unauthorized users from accessing your website.
-- **IP Ban**: You can specify IPs to be banned in the `.gup` file.
 - **Callback File**: Set up callback URLs within the `.gup` file to manage certain events or interactions on your server.
 
 ---
@@ -82,13 +81,13 @@ Feel free to contribute by submitting issues and pull requests!
 
 # Gupiton-Plain Hosting (Thai) - Translate
 
-Gupiton-Plain เป็นบริการโฮสติ้งที่ง่าย คุณสามารถสมัครบัญชีผู้ใช้, ล็อกอินด้วยหมายเลขเซิร์ฟเวอร์, อัปโหลดไฟล์ HTML และ `.gup` (ซึ่งอาจรวมถึงการตั้งค่าความปลอดภัย เช่น รหัสผ่าน, การบล็อก IP, และไฟล์ callback) และสร้าง URL เพื่อเข้าถึงเนื้อหาที่โฮสต์ของคุณ
+Gupiton-Plain เป็นบริการโฮสติ้งที่ง่าย คุณสามารถสมัครบัญชีผู้ใช้, ล็อกอินด้วยหมายเลขเซิร์ฟเวอร์, อัปโหลดไฟล์ HTML และ `.gup` (ซึ่งอาจรวมถึงการตั้งค่าความปลอดภัย เช่น รหัสผ่าน, และไฟล์ callback) และสร้าง URL เพื่อเข้าถึงเนื้อหาที่โฮสต์ของคุณ
 
 ## คุณสมบัติ
 
 - **สมัครสมาชิก**: สร้างบัญชีเพื่อรับหมายเลขเซิร์ฟเวอร์ที่ไม่ซ้ำกัน
 - **ล็อกอิน**: ล็อกอินด้วยหมายเลขเซิร์ฟเวอร์เพื่อเข้าถึงเซิร์ฟเวอร์ของคุณ
-- **อัปโหลด**: อัปโหลดไฟล์ `.html` และ `.gup` (ไฟล์รหัสผ่าน, การบล็อก IP และไฟล์ callback)
+- **อัปโหลด**: อัปโหลดไฟล์ `.html` และ `.gup` (password;(string),report;(url),redirect;(url)).
 - **สร้าง URL**: สร้าง URL ที่ไม่ซ้ำกันเพื่อเข้าถึงไฟล์ที่โฮสต์
 
 ## ความต้องการ
@@ -113,7 +112,7 @@ Gupiton-Plain เป็นบริการโฮสติ้งที่ง่
 เมื่อคุณล็อกอินแล้ว คุณสามารถอัปโหลดไฟล์ของคุณไปยังเซิร์ฟเวอร์:
 - คุณสามารถอัปโหลด:
   - **ไฟล์ HTML**: เพื่อแสดงเว็บไซต์ของคุณ
-  - **ไฟล์ .gup**: ซึ่งอาจรวมถึงการตั้งค่าความปลอดภัย เช่น รหัสผ่าน, การบล็อก IP และไฟล์ callback
+  - **ไฟล์ .gup**: ซึ่งอาจรวมถึงการตั้งค่าความปลอดภัย เช่น รหัสผ่าน และไฟล์ callback
 - **รหัสผ่าน** ในไฟล์ `.gup` ใช้เพื่อป้องกันผู้ใช้ที่ไม่รู้จักจากการเข้าถึงเว็บไซต์ของคุณ รหัสผ่านนี้ไม่ได้ใช้สำหรับการเข้ารหัสเว็บไซต์ทั้งหมด แต่จะใช้เพื่อเพิ่มชั้นการรักษาความปลอดภัยโดยการจำกัดการเข้าถึงผู้ใช้ที่ไม่ได้รับอนุญาต
 - ใช้ส่วนติดต่อในการอัปโหลดเพื่อเลือกและอัปโหลดไฟล์ที่คุณต้องการ
 
@@ -129,7 +128,6 @@ Gupiton-Plain เป็นบริการโฮสติ้งที่ง่
 
 ## ฟีเจอร์ความปลอดภัย
 - **รหัสผ่าน**: รหัสผ่านในไฟล์ `.gup` ช่วยป้องกันไม่ให้ผู้ใช้ที่ไม่ได้รับอนุญาตเข้าถึงเว็บไซต์ของคุณ
-- **การบล็อก IP**: คุณสามารถระบุ IP ที่ต้องการบล็อกในไฟล์ `.gup`
 - **ไฟล์ Callback**: ตั้งค่าลิงก์ callback ภายในไฟล์ `.gup` เพื่อจัดการเหตุการณ์หรือการโต้ตอบบางอย่างบนเซิร์ฟเวอร์ของคุณ
 
 ---
