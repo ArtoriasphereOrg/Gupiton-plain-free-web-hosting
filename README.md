@@ -9,7 +9,7 @@ and more..
 Default Html file
 https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=885-0
 
-Gupiton-Plain is a simple hosting service where you can sign up, log in with a server number, upload HTML and `.gup` files (which may include security configurations like password, and callback files), and generate a URL for accessing your hosted content.
+Gupiton-Plain is a simple hosting service where you can sign up, log in with a server number, upload HTML and `.gup` files (which may include security configurations like password and callback files), and generate a URL for accessing your hosted content.
 
 ## Features
 
@@ -81,7 +81,7 @@ Feel free to contribute by submitting issues and pull requests!
 
 # Gupiton-Plain Hosting (Thai) - Translate
 
-Gupiton-Plain เป็นบริการโฮสติ้งที่ง่าย คุณสามารถสมัครบัญชีผู้ใช้, ล็อกอินด้วยหมายเลขเซิร์ฟเวอร์, อัปโหลดไฟล์ HTML และ `.gup` (ซึ่งอาจรวมถึงการตั้งค่าความปลอดภัย เช่น รหัสผ่าน, และไฟล์ callback) และสร้าง URL เพื่อเข้าถึงเนื้อหาที่โฮสต์ของคุณ
+Gupiton-Plain เป็นบริการโฮสติ้งที่ง่าย คุณสามารถสมัครบัญชีผู้ใช้, ล็อกอินด้วยหมายเลขเซิร์ฟเวอร์, อัปโหลดไฟล์ HTML และ `.gup` (ซึ่งอาจรวมถึงการตั้งค่าความปลอดภัย เช่น รหัสผ่าน และไฟล์ callback) และสร้าง URL เพื่อเข้าถึงเนื้อหาที่โฮสต์ของคุณ
 
 ## คุณสมบัติ
 
