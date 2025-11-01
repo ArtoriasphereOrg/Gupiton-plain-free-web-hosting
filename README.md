@@ -8,6 +8,7 @@ https://myexploitgift.web.app/
 https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=spm-3
 https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=ve-2
 https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=evernighttt-2
+https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=guptool-1
 and more..
 
 Default Html file
