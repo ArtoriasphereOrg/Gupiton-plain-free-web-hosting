@@ -35,7 +35,7 @@ and more..
 ---
 
 Default Html file
-https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=885-0
+https://gupiton.dwqdwqd.serv00.net/plain?id=885-0
 
 Gupiton-Plain is a simple hosting service where you can sign up, log in with a server number, upload HTML and `.gup` files (which may include security configurations like password and callback files), and generate a URL for accessing your hosted content.
 
