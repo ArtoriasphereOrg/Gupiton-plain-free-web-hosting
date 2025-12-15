@@ -2,6 +2,8 @@
 
 # Gupiton-Plain Hosting
 
+---
+
 Website that host with us
 
 https://gupiton.dwqdwqd.serv00.net/plain?id=d11-1
@@ -29,6 +31,8 @@ https://gupiton.dwqdwqd.serv00.net/plain?id=sc-2
 https://gupiton.dwqdwqd.serv00.net/plain?id=ssss-1
 
 and more..
+
+---
 
 Default Html file
 https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=885-0
