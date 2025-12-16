@@ -1,3 +1,2 @@
 Report
-
-https://gupiton.dwqdwqd.serv00.net/plain/keep.php
+https://gupiton.dwqdwqd.serv00.net/plain?id=report-0
