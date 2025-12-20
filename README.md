@@ -6,6 +6,8 @@
 
 Website that host with us
 
+https://gupiton.dwqdwqd.serv00.net/plain?id=synchrotron-2
+
 https://gupiton.dwqdwqd.serv00.net/plain?id=d11-1
 
 https://myexploitgift.web.app/
