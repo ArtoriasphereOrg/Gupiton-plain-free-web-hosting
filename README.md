@@ -12,6 +12,8 @@ for better server and url!
 
 Website that host with us
 
+https://gupiton.dwqdwqd.serv00.net/plain?id=desuwa-0
+
 https://gupiton.dwqdwqd.serv00.net/plain?id=gird-2
 
 https://gupiton.dwqdwqd.serv00.net/plain?id=synchrotron-2
