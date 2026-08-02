@@ -48,6 +48,9 @@ Visual HTML Canvas Builder
 
 https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=drukidopalv1-2
 
+Custom start browser page
+
+https://gupiton.dwqdwqd.serv00.net/plain/rbx.php?id=browser-1
 
 and more..
 
